@@ -7,6 +7,7 @@ List of awesome .new domains!
 - [doc.new](doc.new) - New Google Doc
 - [forms.new](forms.new) - New Google Forms
 - [link.new](link.new) - New Bitly Link
+- [letsmeet.new](letsmeet.new) - New Cisco WebEx Meeting
 - [gits.new](gits.new) - New Gist
 - [keep.new](keep.new) - New Google Keep
 - [metting.new](metting.new) - New Google Meeting
@@ -16,7 +17,6 @@ List of awesome .new domains!
 - [story.new](story.new) - New Medium Story
 - [site.new](site.new) - New Google Site
 - [slide.new](slide.new) - New Google Slide
-- [letsmeet.new](letsmeet.new) - New Cisco WebEx Meeting
 
 
 
