@@ -7,7 +7,7 @@ List of awesome **`.new`** domains!
 - [doc.new](https://doc.new) - New Google Doc
 - [forms.new](https://forms.new) - New Google Forms
 - [link.new](https://link.new) - New Bitly Link
-- [gits.new](https://gits.new) - New Gist
+- [gist.new](https://gist.new) - New Gist
 - [keep.new](https://keep.new) - New Google Keep
 - [metting.new](https://metting.new) - New Google Meeting
 - [podcast.new](https://podcast.new) - New Spotify Podcast
